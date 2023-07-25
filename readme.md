@@ -1,8 +1,11 @@
 This script searches through all is a directory, finds similar prefixes, and then partitions them by the same prefixes into separate sub-folders
 
 Before running the script, make sure to change the variable below to the path where the files are in your local machine 
-filesPath=<path-to-files-directory-here>
-Example: 
+
+```filesPath=<path-to-files-directory-here>```
+
+Example:
+
  ```/usr/local/someone/files ```
 
 Then, we can run the script by executing it from the terminal.
