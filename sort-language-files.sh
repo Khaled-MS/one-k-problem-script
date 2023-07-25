@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## Before running the script, make sure to change the variable below to the path where the files are in your local machine 
+# -> Example: /usr/local/someone/files 
 filesPath=<path-to-files-directory-here>
 
 ## Get a list of languages from the files:
